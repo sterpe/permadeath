@@ -2,6 +2,7 @@
   "name": "permadeath",
   "version": "0.0.1",
   "description": "PermadeathJS",
+  "bin": "./bin/cmd.js",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
