@@ -4,7 +4,9 @@
   "description": "PermadeathJS",
   "bin": "./bin/cmd.js",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
   "devDependencies": {
     "standard": "^9.0.2"
   },
